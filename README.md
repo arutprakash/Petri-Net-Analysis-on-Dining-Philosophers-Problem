@@ -1,4 +1,4 @@
-# PetriNet Analysis for Wireless Sensor Networks
+# PetriNet Analysis for Dining Philosophers Problem
 
 ### Modelling and Simulation of WSN
 This section will cover the modelling of MAC-layer & Application-Layer protocols for Low-powered Wireless Sensor Networks.
